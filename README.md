@@ -10,7 +10,7 @@
 ## About Me
 
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
--   🎵 Playing osu!
+-   🎵 Playing [osu!](https://osu.ppy.sh/users/27370985)
 -   🛼 Roller skating
 
 <div id="badges" align="center">
