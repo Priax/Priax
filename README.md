@@ -24,7 +24,8 @@
     <img src="https://github-readme-stats.vercel.app/api/?username=Priax&show_icons=true&theme=radical&rank_icon=github" width="400" height="200" />
 </div>
 
-### :hammer_and_wrench: Skills :
+## :hammer_and_wrench: Skills
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/c7ca3d13c7e949e0c1c905dd7e629b2f0bf16bbc11d683ad1f81efd18f39537d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="40" height="40" alt="C++"/>
