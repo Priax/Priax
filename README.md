@@ -40,6 +40,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/49fe5cc13b9c41c93f11e3ac358f838d9ae72dda41797384d3cd5ed57131261a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" title="PostgreSQL" **alt="PostgreSQL_logo" width="40" height="40"/>
 </div>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Priax/Priax/blob/main/assets/rain_hanekawa.gif?raw=true');]{x0000}$}
