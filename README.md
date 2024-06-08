@@ -42,4 +42,4 @@
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.5; background: url('https://github.com/Priax/Priax/blob/main/assets/rain_hanekawa.gif?raw=true'); background-size: cover; background-position: center;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.5; background: url('https://github.com/Priax/Priax/blob/main/assets/rain_hanekawa.gif?raw=true');]{x0000}$}
