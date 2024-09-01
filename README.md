@@ -28,7 +28,6 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/c7ca3d13c7e949e0c1c905dd7e629b2f0bf16bbc11d683ad1f81efd18f39537d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="40" height="40" alt="C++"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" **alt="Rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
@@ -38,5 +37,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/49fe5cc13b9c41c93f11e3ac358f838d9ae72dda41797384d3cd5ed57131261a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" title="PostgreSQL" **alt="PostgreSQL_logo" width="40" height="40"/>
 </div>
