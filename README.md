@@ -12,6 +12,7 @@
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
 -   🎵 Playing [osu!](https://osu.ppy.sh/users/27370985)
 -   🛼 Roller skating
+-   🎻 Learning violin !
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/montero-fontaine/">
