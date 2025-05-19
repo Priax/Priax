@@ -7,8 +7,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkNmkydGx3MnMyc2RpZnkwd2RxcmI2czJpOXg1YnA4dXg3azA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priax" alt="Priax" /></a> </p>
-
 ## About Me
 
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
@@ -44,3 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
+
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priax" alt="Priax" /></a> </p>
