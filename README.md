@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkNmkydGx3MnMyc2RpZnkwd2RxcmI2czJpOXg1YnA4dXg3azA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="600" height="300"/>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priax" alt="Priax" /></a> </p>
+
 ## About Me
 
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
@@ -14,7 +16,7 @@
 -   🛼 Roller skating
 -   🎻 Learning violin !
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/montero-fontaine/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
