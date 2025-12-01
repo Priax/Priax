@@ -10,7 +10,7 @@
 ## About Me
 
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
--   🎵 Playing [osu!](https://osu.ppy.sh/users/27370985)
+-   Currently studying at Tsinghua University (China)
 -   🛼 Roller skating
 -   🎻 Learning violin !
 
