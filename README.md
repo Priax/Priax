@@ -10,7 +10,7 @@
 ## About Me
 
 -   🎓 Studying at [Epitech](https://www.epitech.eu/)
--   Currently studying at Tsinghua University (China)
+-   🎓 Currently studying at Tsinghua University (China)
 -   🛼 Roller skating
 -   🎻 Learning violin !
 
@@ -48,6 +48,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
-
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=priax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
