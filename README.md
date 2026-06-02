@@ -32,7 +32,7 @@ You can contact me on discord, my pseudonym is `priax`
 
 
 <div align="center">
-    <img src="assets/noelle_dance.gif" width="32" height="32">
+    <img src="assets/noelle_dance.gif" width="64">
 </div>
 
 <div>
