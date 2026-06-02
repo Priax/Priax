@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <div class="tenor-gif-embed" data-postid="22952801" data-share-method="host" data-aspect-ratio="1.63265" data-width="100%"><a href="https://tenor.com/view/va11hall-a-jill-jill-stingray-dorothy-gif-22952801">Va11hall A Jill GIF</a>from <a href="https://tenor.com/search/va11hall+a-gifs">Va11hall A GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="assets/va11hall-1-jill.gif">
 </div>
 
 [Website](https://priax.org) &middot;
