@@ -13,7 +13,7 @@
 [LinkedIn](https://www.linkedin.com/in/montero-fontaine/) &middot; 
 [Email](mailto:vincent.monterofontaine1@gmail.com)
 
-I am Priax, a french developer that loves learning ! I studied at [Epitech](https://www.epitech.eu/) and Tsinghua University in Beijing, China.<br>
+I am Priax, a french developer that loves learning ! I studied Computer Science at [Epitech](https://www.epitech.eu/) and Tsinghua University in Beijing, China.<br>
 In my free time, I code, play indie game, do roller skating.<br>
 I am also currently learning violin!
 
