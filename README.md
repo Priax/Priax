@@ -14,7 +14,9 @@
 [Email](mailto:vincent.monterofontaine1@gmail.com)
 
 I am Priax, a french developer that loves learning ! I studied at [Epitech](https://www.epitech.eu/) and Tsinghua University in Beijing, China.
-In my free time, I code, play indie game, do roller skating. I am also currently learning violin!
+In my free time, I code, play indie game, do roller skating.
+
+I am also currently learning violin!
 
 I am a part of [DeltaruneFR](https://deltarune-fr.com), I was one of the founder member and worked on it since 2018.
 
@@ -24,8 +26,10 @@ I am currently working on:
 * An insect sound maker (embedded programming)
 * An insect data gathering app
 
-💻 My website and portfolio : [priax.org](https://priax.org)
+💻 My website and portfolio: [priax.org](https://priax.org)
+
 Don't hesitate to look at my projects on github :3
+
 You can contact me on discord, my pseudonym is `priax`
 
 <div>
