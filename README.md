@@ -1,26 +1,32 @@
 <h1 align="center">
-  hello there
+  Hello!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkNmkydGx3MnMyc2RpZnkwd2RxcmI2czJpOXg1YnA4dXg3azA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="600" height="300"/>
+  <img src="https://tenor.com/view/va11hall-a-jill-jill-stingray-dorothy-gif-22952801" width="600" height="300"/>
 </div>
 
-## About Me
+[Website](https://priax.org) &middot;
+[Bluesky](https://bsky.app/profile/priax.org) &middot; 
+[Twitter](https://x.com/Prime_Axiom) &middot; 
+[LinkedIn](https://www.linkedin.com/in/montero-fontaine/) &middot; 
+[Email](mailto:vincent.monterofontaine1@gmail.com)
 
--   🎓 Studying at [Epitech](https://www.epitech.eu/)
--   🎓 Currently studying at Tsinghua University (China)
--   🛼 Roller skating
--   🎻 Learning violin !
+I am Priax, a french developer that loves learning ! I studied at [Epitech](https://www.epitech.eu/) and Tsinghua University in Beijing, China.
+In my free time, I code, play indie game, do roller skating. I am also currently learning violin!
 
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/montero-fontaine/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+I am a part of [DeltaruneFR](https://deltarune-fr.com), I was one of the founder member and worked on it since 2018.
 
-## :hammer_and_wrench: Skills
+I am currently working on:
+* A multiplayer puyo like game in Rust !
+* A messenger app
+* An insect sound maker (embedded programming)
+* An insect data gathering app
+
+💻 My website and portfolio : [priax.org](https://priax.org)
+Don't hesitate to look at my projects on github :3
+You can contact me on discord, my pseudonym is `priax`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
