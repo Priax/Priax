@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="assets/va11hall-a-jill.gif">
+    <img src="assets/va11hall-a-jill.gif" width="600">
 </div>
 
 [Website](https://priax.org) &middot;
