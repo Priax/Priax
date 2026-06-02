@@ -30,6 +30,11 @@ Don't hesitate to look at my projects on github :3
 
 You can contact me on discord, my pseudonym is `priax`
 
+
+<div align="center">
+    <img src="assets/noelle_dance.gif">
+</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
