@@ -20,10 +20,10 @@ I am also currently learning violin!
 I am a part of [DeltaruneFR](https://deltarune-fr.com), I was one of the founder member and worked on it since 2018.
 
 I am currently working on:
-* A multiplayer puyo like game in Rust !
-* A messenger app
+* **Puyorust**: A multiplayer puyo like game in Rust !
+* **Butterfly**: A messenger app
 * An insect sound maker (embedded programming)
-* An insect data gathering app
+* **Sylvestre**: An animal data gathering app
 
 💻 My website and portfolio: [priax.org](https://priax.org)<br>
 Don't hesitate to look at my projects on github :3
